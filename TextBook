@@ -1,0 +1,14 @@
+<!DOCTYPE html> 
+
+<html> 
+    <head> 
+        <metta http-euiv="content-type" content="text/html"; charset="utf-8"> 
+
+            <title> Textbook title </title>
+
+            <body> 
+                <h1> This is <b> heading </b></h1>
+                <p> And this is a <strong> text </strong>strong> </p>
+            </body>
+    </head>
+</html>
